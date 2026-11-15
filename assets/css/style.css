@@ -23,12 +23,6 @@
     transition: transform 0.3s;
     gap: 12px;
 }
-.topicon {
-    height: 36px;
-    width: auto;
-    margin_right: 15px;
-    border-radius: 50%
-}
 .topbar_title {
     font-family: 'TurretRoad', sans-serif;
     text-align: right;
